@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600695813402",
+    "firebase_url": "https://studymaina-29d61.firebaseio.com",
+    "project_id": "studymaina-29d61",
+    "storage_bucket": "studymaina-29d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600695813402:android:99fadd8e065a26f82868a3",
+        "android_client_info": {
+          "package_name": "com.example.studymaina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600695813402-ol4u5qibgqisgqvnuh5n5k4uq4b3blt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studymaina",
+            "certificate_hash": "f50fbb9e00182ed4f722df91a99f187a1c2852a5"
+          }
+        },
+        {
+          "client_id": "600695813402-b1rlb3o0r232qhkogvb7t63ea7i8u7do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKmPJNQhsnfh4iZC6KGtR4Kmzf5PatWmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600695813402-b1rlb3o0r232qhkogvb7t63ea7i8u7do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
